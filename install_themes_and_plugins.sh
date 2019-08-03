@@ -9,3 +9,6 @@ git clone https://github.com/mrliptontea/purplemine2.git public/themes/purplemin
 
 
 # docker restart redmine
+
+
+# https://yyyank.blogspot.com/2016/02/blog-post_23.html
